@@ -22,4 +22,4 @@ class LightSwitch {
 $lightswitch = new LightSwitch();
 
 var_dump($lightswitch->connect());
-//PHP fatal error. Call to private method LightSwitch::connect() from context.
+//PHP fatal error.. Call to private method LightSwitch::connect() from context.
